@@ -1,0 +1,1 @@
+# core-spotlight-search-sample
